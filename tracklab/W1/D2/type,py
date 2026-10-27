@@ -1,0 +1,8 @@
+count = 6
+text = "6"
+
+print(count, text)
+print(type(count), type(text))
+print(count + 2)
+print(text + "2")
+print(type(count+2),type(text+"2"))
