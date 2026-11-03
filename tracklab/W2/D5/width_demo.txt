@@ -1,0 +1,2 @@
+demo_a.jpg,12.5
+demo_b.jpg,bad
